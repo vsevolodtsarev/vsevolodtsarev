@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Vsevolod 👋</a> 
-
 <h3 align="center">Swift developer </h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" height="50"/>
+
           
 <!--
 **vsevolodtsarev/vsevolodtsarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
