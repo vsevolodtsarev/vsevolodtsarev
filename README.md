@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vsevolod 👋</a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="100" height="100"/>
 <h3 align="center">Swift developer</h3>
           
 <!--
