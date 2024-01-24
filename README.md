@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vsevolod 👋</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <h3 align="center">Swift developer</h3>
           
 <!--
